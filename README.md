@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Actualmente trabajo en Onprotec.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 Estoy aprendiendo JavaScript.
 - 👯 I’m looking to collaborate on proyec.tos
 - 🤔 I’m looking for help with node.js.
 - 💬 Ask me about lenguaje favorito.
