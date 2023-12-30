@@ -2,9 +2,9 @@
 
 - 🔭 Actualmente trabajo en Onprotec.
 - 🌱 Estoy aprendiendo JavaScript.
-- 👯 I’m looking to collaborate on proyec.tos
-- 🤔 I’m looking for help with node.js.
-- 💬 Ask me about lenguaje favorito.
+- 👯 Estoy buscando colaborar en proyectos
+- 🤔 Busco ayuda con node.js.
+- 💬 Preguntame por mi lenguaje favorito.
 - 📫 Como puedes buscarme: Joberland Suniaga.
 - 😄 Pronouns: el.
 - ⚡ Fun fact: pague por winrar.
